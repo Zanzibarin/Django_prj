@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e6bdc78-ace2-4e68-833a-bdf4120e6f67" name="Changes" comment="New Django project">
+    <list default="true" id="7e6bdc78-ace2-4e68-833a-bdf4120e6f67" name="Changes" comment="New test file added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719393384844</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New test file added">
+      <option name="closed" value="true" />
+      <created>1719394607180</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1719394607180</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -100,6 +108,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Django project" />
-    <option name="LAST_COMMIT_MESSAGE" value="New Django project" />
+    <MESSAGE value="New test file added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New test file added" />
   </component>
 </project>
