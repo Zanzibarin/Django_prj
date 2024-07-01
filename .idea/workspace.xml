@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e6bdc78-ace2-4e68-833a-bdf4120e6f67" name="Changes" comment="New test file added">
+    <list default="true" id="7e6bdc78-ace2-4e68-833a-bdf4120e6f67" name="Changes" comment="New changes added">
+      <change afterPath="$PROJECT_DIR$/test_project/templates/flatpages/contact_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_project/templates/flatpages/default.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_project/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_project/test2.py" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test_project/test_project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/test_project/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_project/test_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_project/test_project/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -34,14 +38,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Files/Python/SkillFactory/project_dir&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/Files/Python/SkillFactory/project_dir",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\Александр\AppData\Roaming\Subversion</configuration>
@@ -70,7 +75,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719394607180</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="New changes added">
+      <option name="closed" value="true" />
+      <created>1719835481911</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1719835481911</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -117,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="New Django project" />
     <MESSAGE value="New test file added" />
-    <option name="LAST_COMMIT_MESSAGE" value="New test file added" />
+    <MESSAGE value="New changes added" />
+    <option name="LAST_COMMIT_MESSAGE" value="New changes added" />
   </component>
 </project>
